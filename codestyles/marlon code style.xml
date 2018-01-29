@@ -1,0 +1,6 @@
+<code_scheme name="marlon code style">
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+  </PHPCodeStyleSettings>
+</code_scheme>
